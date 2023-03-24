@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geometrikSekilHesaplama", "geometrikSekilHesaplama.csproj", "{147A58DF-91C3-4D77-88D1-628473B4230A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147A58DF-91C3-4D77-88D1-628473B4230A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147A58DF-91C3-4D77-88D1-628473B4230A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147A58DF-91C3-4D77-88D1-628473B4230A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147A58DF-91C3-4D77-88D1-628473B4230A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15853452-21BF-47BD-AE33-7342F96D084F}
+	EndGlobalSection
+EndGlobal

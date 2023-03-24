@@ -1,0 +1,17 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\bin\Debug\net6.0-windows\geometrikSekilHesaplama.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\bin\Debug\net6.0-windows\geometrikSekilHesaplama.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\bin\Debug\net6.0-windows\geometrikSekilHesaplama.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\bin\Debug\net6.0-windows\geometrikSekilHesaplama.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\bin\Debug\net6.0-windows\geometrikSekilHesaplama.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.csproj.AssemblyReference.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.Form1.resources
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.csproj.GenerateResource.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.AssemblyInfoInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.AssemblyInfo.cs
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.csproj.CoreCompileInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\refint\geometrikSekilHesaplama.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\geometrikSekilHesaplama.genruntimeconfig.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\geometrikSekilHesaplama\obj\Debug\net6.0-windows\ref\geometrikSekilHesaplama.dll

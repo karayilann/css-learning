@@ -1,0 +1,17 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\bin\Debug\net6.0-windows\egitimBirinciDosya.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\bin\Debug\net6.0-windows\egitimBirinciDosya.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\bin\Debug\net6.0-windows\egitimBirinciDosya.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\bin\Debug\net6.0-windows\egitimBirinciDosya.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\bin\Debug\net6.0-windows\egitimBirinciDosya.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.csproj.AssemblyReference.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.Form1.resources
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.csproj.GenerateResource.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.GeneratedMSBuildEditorConfig.editorconfig
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.AssemblyInfoInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.AssemblyInfo.cs
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.csproj.CoreCompileInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\refint\egitimBirinciDosya.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\egitimBirinciDosya.genruntimeconfig.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\egitimBirinciDosya\obj\Debug\net6.0-windows\ref\egitimBirinciDosya.dll
