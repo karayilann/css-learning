@@ -1,0 +1,17 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\bin\Debug\net6.0-windows\ifElse.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\bin\Debug\net6.0-windows\ifElse.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\bin\Debug\net6.0-windows\ifElse.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\bin\Debug\net6.0-windows\ifElse.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\bin\Debug\net6.0-windows\ifElse.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.csproj.AssemblyReference.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.Form1.resources
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.csproj.GenerateResource.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.AssemblyInfoInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.AssemblyInfo.cs
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.csproj.CoreCompileInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\refint\ifElse.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ifElse.genruntimeconfig.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\ifElse\obj\Debug\net6.0-windows\ref\ifElse.dll
