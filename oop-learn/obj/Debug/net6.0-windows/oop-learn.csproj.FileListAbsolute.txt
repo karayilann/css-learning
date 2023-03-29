@@ -1,0 +1,17 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\bin\Debug\net6.0-windows\oop-learn.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\bin\Debug\net6.0-windows\oop-learn.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\bin\Debug\net6.0-windows\oop-learn.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\bin\Debug\net6.0-windows\oop-learn.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\bin\Debug\net6.0-windows\oop-learn.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop-learn.csproj.AssemblyReference.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop_learn.Form1.resources
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop-learn.csproj.GenerateResource.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop-learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop-learn.AssemblyInfoInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop-learn.AssemblyInfo.cs
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop-learn.csproj.CoreCompileInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop-learn.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\refint\oop-learn.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop-learn.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\oop-learn.genruntimeconfig.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-learn\obj\Debug\net6.0-windows\ref\oop-learn.dll
