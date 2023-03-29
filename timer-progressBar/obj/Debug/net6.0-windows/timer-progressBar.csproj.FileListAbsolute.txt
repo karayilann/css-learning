@@ -1,0 +1,17 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\bin\Debug\net6.0-windows\timer-progressBar.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\bin\Debug\net6.0-windows\timer-progressBar.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\bin\Debug\net6.0-windows\timer-progressBar.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\bin\Debug\net6.0-windows\timer-progressBar.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\bin\Debug\net6.0-windows\timer-progressBar.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer-progressBar.csproj.AssemblyReference.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer_progressBar.Form1.resources
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer-progressBar.csproj.GenerateResource.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer-progressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer-progressBar.AssemblyInfoInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer-progressBar.AssemblyInfo.cs
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer-progressBar.csproj.CoreCompileInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer-progressBar.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\refint\timer-progressBar.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer-progressBar.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\timer-progressBar.genruntimeconfig.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\timer-progressBar\obj\Debug\net6.0-windows\ref\timer-progressBar.dll

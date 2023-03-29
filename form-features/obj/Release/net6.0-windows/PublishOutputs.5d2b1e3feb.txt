@@ -1,0 +1,5 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\exe_files\form-features\form-features.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\exe_files\form-features\form-features.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\exe_files\form-features\form-features.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\exe_files\form-features\form-features.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\exe_files\form-features\form-features.pdb
