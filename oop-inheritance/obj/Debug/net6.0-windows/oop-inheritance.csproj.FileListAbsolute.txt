@@ -1,0 +1,17 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\bin\Debug\net6.0-windows\oop-inheritance.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\bin\Debug\net6.0-windows\oop-inheritance.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\bin\Debug\net6.0-windows\oop-inheritance.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\bin\Debug\net6.0-windows\oop-inheritance.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\bin\Debug\net6.0-windows\oop-inheritance.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop-inheritance.csproj.AssemblyReference.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop_inheritance.Form1.resources
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop-inheritance.csproj.GenerateResource.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop-inheritance.AssemblyInfoInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop-inheritance.AssemblyInfo.cs
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop-inheritance.csproj.CoreCompileInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop-inheritance.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\refint\oop-inheritance.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop-inheritance.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\oop-inheritance.genruntimeconfig.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\oop-inheritance\obj\Debug\net6.0-windows\ref\oop-inheritance.dll
