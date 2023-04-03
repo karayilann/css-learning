@@ -1,0 +1,17 @@
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\bin\Debug\net6.0-windows\random-Subjects.exe
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\bin\Debug\net6.0-windows\random-Subjects.deps.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\bin\Debug\net6.0-windows\random-Subjects.runtimeconfig.json
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\bin\Debug\net6.0-windows\random-Subjects.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\bin\Debug\net6.0-windows\random-Subjects.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random-Subjects.csproj.AssemblyReference.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random_Subjects.Form1.resources
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random-Subjects.csproj.GenerateResource.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random-Subjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random-Subjects.AssemblyInfoInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random-Subjects.AssemblyInfo.cs
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random-Subjects.csproj.CoreCompileInputs.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random-Subjects.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\refint\random-Subjects.dll
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random-Subjects.pdb
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\random-Subjects.genruntimeconfig.cache
+C:\aMUHAMMET_FILES\yazilimdosyalari\VScss\YT-egitim\random-Subjects\obj\Debug\net6.0-windows\ref\random-Subjects.dll
